@@ -8,5 +8,6 @@ plotly
 scikit-image
 torch
 monai>=1.3
+huggingface_hub
 reportlab
 groq
