@@ -1,0 +1,3 @@
+# Extra packages for train.py (use in Kaggle/Colab/local; install torch/torchvision as usual)
+-r requirements.txt
+scikit-learn
